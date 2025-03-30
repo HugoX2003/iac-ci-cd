@@ -6,4 +6,4 @@ Este proyecto contiene una app mínima en Flask para practicar pipelines de CI/C
 
 1. Construir la imagen:
 ```bash
-docker build -t flask-iac-demo .
+docker build -t iac-ci-cd .
